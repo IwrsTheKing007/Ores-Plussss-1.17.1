@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "omiam:platinum_ore",
+    "omiam:platinum_block",
+    "omiam:sandia_alloy_block",
+    "omiam:dragon_fruit_ore",
+    "omiam:anthracite_ore",
+    "omiam:mjolnir_ore",
+    "omiam:steel_ore",
+    "omiam:nether_magma_ore"
+  ]
+}

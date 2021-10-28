@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "omiam:raw_platinum"
+  },
+  "result": "omiam:platinum_ingot",
+  "experience": 0.6,
+  "cookingtime": 120
+}
